@@ -1,6 +1,3 @@
-Here is the complete, all-in-one Markdown code. You can copy this entire block and paste it directly into your `README.md` file.
-
-```markdown
 # 📡 LAN Watch: Advanced Network & Bluetooth Scanner
 
 **LAN Watch** is a dual-interface network discovery tool designed to bridge the gap between theoretical networking and practical application. It combines low-level **ARP packet crafting** for Wi-Fi discovery with asynchronous **Bluetooth Low Energy (BLE)** scanning, providing real-time visibility into your local environment.
